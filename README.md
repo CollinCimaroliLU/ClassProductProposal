@@ -1,1 +1,3 @@
 # ClassProductProposal
+# Author
+Collin Cimaroli
